@@ -1,0 +1,8 @@
+install opencv:
+
+ 1. pip3 install opencv-python
+
+Steps:
+1. Get an image
+2. Convert to grayscale
+3. train the algorithm to detect
